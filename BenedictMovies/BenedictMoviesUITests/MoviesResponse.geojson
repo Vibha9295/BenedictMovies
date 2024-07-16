@@ -1,0 +1,10 @@
+{
+    "results": [
+        {
+            "id": 123,
+            "title": "Example Movie",
+            "overview": "This is an example movie.",
+            "poster_path": "/path/to/poster.jpg"
+        }
+    ]
+}
